@@ -15,7 +15,7 @@ To run these files, you will need :
 - The [audio file](https://drive.google.com/drive/folders/1eP2LeG2PLObv7HZ3HDaDLCT7pdfoc_tf?usp=sharing) used for `Voice Separation and Beat Detection`
 
 ## A Glance for the Programs
-Because `Voice Separation and Beat Detection` file size are too large, these videos can be viewed in case the `.ipynb` files can't be opened.
+Since `Voice Separation and Beat Detection` file size are too large, these videos can be viewed in case the `.ipynb` files can't be opened.
 ### Voice Separation
 ![Voice_vid](Voice.gif)
 
