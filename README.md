@@ -14,7 +14,11 @@ To run these files, you will need :
 - [mir_eval](https://pypi.org/project/mir_eval/)
 - The [audio file]() used for `Voice Separation and Beat Detection`
 
-## 
+## A Glance for the Programs
+Because `Voice Separation and Beat Detection` file size are too large, these videos can be viewed in case the `.ipynb` files can't be opened.
+![Voice_vid](Voice_vid)
+![FIR_vid](FIR_vid)
+
 ## Authors : 
 - Winly Williamdy   (01032170001)
 - Owen              (01032170005)
