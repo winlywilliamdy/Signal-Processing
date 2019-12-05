@@ -2,7 +2,7 @@
 This repository is intended for final project of Signal Processing course taken at Universitas Pelita Harapan - Lippo Village.
 
 ## Contents
-This repository contain `FIR Filter Design` and link to download `Voice Separation and Beat Detection` can be found [https://drive.google.com/drive/folders/1eP2LeG2PLObv7HZ3HDaDLCT7pdfoc_tf?usp=sharing]. Both of these files are developed using `Jupyter Notebook` and using Python 3 programing language.
+This repository contain `FIR Filter Design` and link to download `Voice Separation and Beat Detection` can be found [here](https://drive.google.com/drive/folders/1eP2LeG2PLObv7HZ3HDaDLCT7pdfoc_tf?usp=sharing). Both of these files are developed using `Jupyter Notebook` and using Python 3 programing language.
 
 ## Prequisite
 To run these files, you will need :
