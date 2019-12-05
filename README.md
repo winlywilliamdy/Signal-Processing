@@ -2,7 +2,7 @@
 This repository is intended for final project of Signal Processing course taken at Universitas Pelita Harapan - Lippo Village.
 
 ## Contents
-This repository contain both `FIR Filter Design` and `Voice Separation and Beat Detection`. Both of these files are developed using `Jupyter Notebook` and using Python 3 programing language.
+This repository contain `FIR Filter Design` and link to download `Voice Separation and Beat Detection` can be found [here]. Both of these files are developed using `Jupyter Notebook` and using Python 3 programing language.
 
 ## Prequisite
 To run these files, you will need :
@@ -12,7 +12,9 @@ To run these files, you will need :
 - [Librosa](https://librosa.github.io/librosa/)
 - [SoundFile](https://pypi.org/project/SoundFile/)
 - [mir_eval](https://pypi.org/project/mir_eval/)
+- The [audio file]() used for `Voice Separation and Beat Detection`
 
+## 
 ## Authors : 
 - Winly Williamdy   (01032170001)
 - Owen              (01032170005)
